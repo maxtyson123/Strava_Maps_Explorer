@@ -1,0 +1,6 @@
+# 1. Copy this file and rename it to access.token
+# 2. Then add your id and secret to the file
+# 3. Remove the comments
+
+id=YOUR_ID
+secret=YOUT_SECRET
